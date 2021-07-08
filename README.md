@@ -1,1 +1,11 @@
 # Face Recognizer 
+
+### 
+
+
+### 操作順序  
+1. 刪除 training 資料夾  
+2. 設定 Config.py  
+3. 執行 Face_capture_positives.py (捕捉人臉元素, 至少200張)  
+4. 執行 Face_training.py (訓練產生 XXX_training.xml)  
+5. 執行 Face_recognition.py (進行辨識)  

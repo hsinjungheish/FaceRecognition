@@ -1,4 +1,4 @@
-# Face Recognizer 
+# Face Recognition 
 
 ### 執行畫面  
 
